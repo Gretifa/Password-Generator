@@ -1,0 +1,3 @@
+#!C:\Users\Greta\PycharmProjects\passwordGenerator\venv\Scripts\python.exe
+from now.main import main
+main()
